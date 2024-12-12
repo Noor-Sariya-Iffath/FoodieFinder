@@ -1,5 +1,4 @@
 # FoodieFinder
-
 It is a Python-based application that allows users to search, add, and view recipes using the Spoonacular API. The app stores recipes locally in a `recipes.json` file, enabling easy access and management of ingredients and cooking instructions.
 
 ## Features
